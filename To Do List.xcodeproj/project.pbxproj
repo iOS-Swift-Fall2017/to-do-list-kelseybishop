@@ -12,6 +12,7 @@
 		9289A1501F7979A9004FFEFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9289A14E1F7979A9004FFEFF /* Main.storyboard */; };
 		9289A1521F7979A9004FFEFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9289A1511F7979A9004FFEFF /* Assets.xcassets */; };
 		9289A1551F7979A9004FFEFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9289A1531F7979A9004FFEFF /* LaunchScreen.storyboard */; };
+		9289A15D1F7A915E004FFEFF /* DetialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9289A15C1F7A915E004FFEFF /* DetialViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9289A1511F7979A9004FFEFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9289A1541F7979A9004FFEFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9289A1561F7979A9004FFEFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9289A15C1F7A915E004FFEFF /* DetialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetialViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				9289A14A1F7979A9004FFEFF /* AppDelegate.swift */,
 				9289A14C1F7979A9004FFEFF /* ViewController.swift */,
+				9289A15C1F7A915E004FFEFF /* DetialViewController.swift */,
 				9289A14E1F7979A9004FFEFF /* Main.storyboard */,
 				9289A1511F7979A9004FFEFF /* Assets.xcassets */,
 				9289A1531F7979A9004FFEFF /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9289A14D1F7979A9004FFEFF /* ViewController.swift in Sources */,
+				9289A15D1F7A915E004FFEFF /* DetialViewController.swift in Sources */,
 				9289A14B1F7979A9004FFEFF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
